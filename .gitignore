@@ -1,0 +1,26 @@
+# IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.class
+
+# Netbeans
+nb-configuration.xml
+
+# OSX
+.DS_Store
+
+# Scripts
+*.sh
+
+# Maven
+target
+
+.java-version
+/bin/
